@@ -34,3 +34,8 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: Paul's on-complete task
+        run: |
+           echo 'pjm hello paultest'
+           echo 'pjm something else'
